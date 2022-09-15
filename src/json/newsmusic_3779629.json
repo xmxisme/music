@@ -1,0 +1,496 @@
+{
+    "songs": [
+      {
+        "name": "给你一瓶魔法药水",
+        "id": 1959667345,
+        "pst": 0,
+        "t": 0,
+        "ar": [
+          {
+            "id": 12676697,
+            "name": "告五人",
+            "tns": [
+              
+            ],
+            "alias": [
+              
+            ]
+          }
+        ],
+        "alia": [
+          
+        ],
+        "pop": 100,
+        "st": 0,
+        "rt": "",
+        "fee": 8,
+        "v": 12,
+        "crbt": null,
+        "cf": "",
+        "al": {
+          "id": 147207482,
+          "name": "玫瑰凭证",
+          "picUrl": "https://p2.music.126.net/fISwJ705Y1c81EqWxKjNqg==/109951167603798520.jpg",
+          "tns": [
+            
+          ],
+          "pic_str": "109951167603798520",
+          "pic": 109951167603798530
+        },
+        "dt": 258847,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10353938,
+          "vd": -72455,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6212380,
+          "vd": -69903,
+          "sr": 44100
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4141601,
+          "vd": -68278,
+          "sr": 44100
+        },
+        "sq": null,
+        "hr": null,
+        "a": null,
+        "cd": "01",
+        "no": 3,
+        "rtUrl": null,
+        "ftype": 0,
+        "rtUrls": [
+          
+        ],
+        "djId": 0,
+        "copyright": 0,
+        "s_id": 0,
+        "mark": 8192,
+        "originCoverType": 1,
+        "originSongSimpleData": null,
+        "tagPicList": null,
+        "resourceState": true,
+        "version": 12,
+        "songJumpInfo": null,
+        "entertainmentTags": null,
+        "awardTags": null,
+        "single": 0,
+        "noCopyrightRcmd": null,
+        "rtype": 0,
+        "rurl": null,
+        "mst": 9,
+        "cp": 7001,
+        "mv": 0,
+        "publishTime": 0
+      },
+      {
+        "name": "我多想拥抱你",
+        "id": 1959668190,
+        "pst": 0,
+        "t": 0,
+        "ar": [
+          {
+            "id": 1145042,
+            "name": "黑屋乐队",
+            "tns": [
+              
+            ],
+            "alias": [
+              
+            ]
+          }
+        ],
+        "alia": [
+          
+        ],
+        "pop": 100,
+        "st": 0,
+        "rt": "",
+        "fee": 8,
+        "v": 11,
+        "crbt": null,
+        "cf": "",
+        "al": {
+          "id": 147207482,
+          "name": "玫瑰凭证",
+          "picUrl": "https://p1.music.126.net/fISwJ705Y1c81EqWxKjNqg==/109951167603798520.jpg",
+          "tns": [
+            
+          ],
+          "pic_str": "109951167603798520",
+          "pic": 109951167603798530
+        },
+        "dt": 193071,
+        "h": {
+          "br": 320002,
+          "fid": 0,
+          "size": 7722885,
+          "vd": -60607,
+          "sr": 44100
+        },
+        "m": {
+          "br": 192002,
+          "fid": 0,
+          "size": 4633748,
+          "vd": -58189,
+          "sr": 44100
+        },
+        "l": {
+          "br": 128002,
+          "fid": 0,
+          "size": 3089180,
+          "vd": -56743,
+          "sr": 44100
+        },
+        "sq": null,
+        "hr": null,
+        "a": null,
+        "cd": "01",
+        "no": 1,
+        "rtUrl": null,
+        "ftype": 0,
+        "rtUrls": [
+          
+        ],
+        "djId": 0,
+        "copyright": 0,
+        "s_id": 0,
+        "mark": 8192,
+        "originCoverType": 1,
+        "originSongSimpleData": null,
+        "tagPicList": null,
+        "resourceState": true,
+        "version": 11,
+        "songJumpInfo": null,
+        "entertainmentTags": null,
+        "awardTags": null,
+        "single": 0,
+        "noCopyrightRcmd": null,
+        "rtype": 0,
+        "rurl": null,
+        "mst": 9,
+        "cp": 7001,
+        "mv": 0,
+        "publishTime": 0
+      },
+      {
+        "name": "再见莫妮卡",
+        "id": 1961735531,
+        "pst": 0,
+        "t": 0,
+        "ar": [
+          {
+            "id": 29588305,
+            "name": "刘大拿",
+            "tns": [
+              
+            ],
+            "alias": [
+              
+            ]
+          },
+          {
+            "id": 12286056,
+            "name": "褚晨茜",
+            "tns": [
+              
+            ],
+            "alias": [
+              
+            ]
+          }
+        ],
+        "alia": [
+          
+        ],
+        "pop": 100,
+        "st": 0,
+        "rt": "",
+        "fee": 8,
+        "v": 3,
+        "crbt": null,
+        "cf": "",
+        "al": {
+          "id": 147698086,
+          "name": "再见莫妮卡",
+          "picUrl": "https://p1.music.126.net/zAcJ-63zAJDR-ygoVCc9Lg==/109951167632950744.jpg",
+          "tns": [
+            
+          ],
+          "pic_str": "109951167632950744",
+          "pic": 109951167632950750
+        },
+        "dt": 192857,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7716525,
+          "vd": -48050,
+          "sr": 48000
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4629933,
+          "vd": -45414,
+          "sr": 48000
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3086637,
+          "vd": -43822,
+          "sr": 48000
+        },
+        "sq": {
+          "br": 867395,
+          "fid": 0,
+          "size": 20910439,
+          "vd": -47885,
+          "sr": 48000
+        },
+        "hr": {
+          "br": 1631552,
+          "fid": 0,
+          "size": 39332078,
+          "vd": -48046,
+          "sr": 48000
+        },
+        "a": null,
+        "cd": "01",
+        "no": 0,
+        "rtUrl": null,
+        "ftype": 0,
+        "rtUrls": [
+          
+        ],
+        "djId": 0,
+        "copyright": 0,
+        "s_id": 0,
+        "mark": 536870912,
+        "originCoverType": 2,
+        "originSongSimpleData": {
+          "songId": 1824045033,
+          "name": "再见莫妮卡",
+          "artists": [
+            {
+              "id": 30644200,
+              "name": "彭席彦"
+            },
+            {
+              "id": 12338185,
+              "name": "Franky弗兰奇"
+            }
+          ],
+          "albumMeta": {
+            "id": 123723319,
+            "name": "再见莫妮卡"
+          }
+        },
+        "tagPicList": null,
+        "resourceState": true,
+        "version": 3,
+        "songJumpInfo": null,
+        "entertainmentTags": null,
+        "awardTags": null,
+        "single": 0,
+        "noCopyrightRcmd": null,
+        "rtype": 0,
+        "rurl": null,
+        "mst": 9,
+        "cp": 0,
+        "mv": 0,
+        "publishTime": 1657123200000,
+        "tns": [
+          "正版授权"
+        ]
+      }
+    ],
+    "privileges": [
+      {
+        "id": 1959667345,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 320000,
+        "downloadMaxbr": 320000,
+        "maxBrLevel": "exhigh",
+        "playMaxBrLevel": "exhigh",
+        "downloadMaxBrLevel": "exhigh",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null
+        },
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ]
+      },
+      {
+        "id": 1959668190,
+        "fee": 0,
+        "payed": 0,
+        "st": -100,
+        "pl": 0,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 320000,
+        "downloadMaxbr": 320000,
+        "maxBrLevel": "exhigh",
+        "playMaxBrLevel": "exhigh",
+        "downloadMaxBrLevel": "exhigh",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": 0,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null
+        },
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ]
+      },
+      {
+        "id": 1961735531,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 0,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "standard",
+        "dlLevel": "none",
+        "flLevel": "standard",
+        "rscl": 10,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null
+        },
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ]
+      }
+    ],
+    "code": 200
+  }
